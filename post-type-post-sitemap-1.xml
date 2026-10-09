@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/sitemap-stylesheet.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://matheusfbrandao.github.io/projeto-ELO/sitemap-stylesheet.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/hello-world/</loc>
+    <loc>https://matheusfbrandao.github.io/projeto-ELO/hello-world/</loc>
     <lastmod>2026-10-07T01:59:20+00:00</lastmod>
   </url>
   <url>
-    <loc>/lorem-ipsum/</loc>
+    <loc>https://matheusfbrandao.github.io/projeto-ELO/lorem-ipsum/</loc>
     <lastmod>2019-04-01T07:45:40+00:00</lastmod>
     <image:image>
-      <image:loc>/wp-content/uploads/2019/04/colibri.jpg</image:loc>
+      <image:loc>https://matheusfbrandao.github.io/projeto-ELO/wp-content/uploads/2019/04/colibri.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>/lorem-ipsum-3/</loc>
+    <loc>https://matheusfbrandao.github.io/projeto-ELO/lorem-ipsum-3/</loc>
     <lastmod>2019-04-01T07:46:04+00:00</lastmod>
     <image:image>
-      <image:loc>/wp-content/uploads/2019/04/colibri.jpg</image:loc>
+      <image:loc>https://matheusfbrandao.github.io/projeto-ELO/wp-content/uploads/2019/04/colibri.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>/lorem-ipsum-2/</loc>
+    <loc>https://matheusfbrandao.github.io/projeto-ELO/lorem-ipsum-2/</loc>
     <lastmod>2019-04-01T07:45:56+00:00</lastmod>
     <image:image>
-      <image:loc>/wp-content/uploads/2019/04/colibri.jpg</image:loc>
+      <image:loc>https://matheusfbrandao.github.io/projeto-ELO/wp-content/uploads/2019/04/colibri.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
