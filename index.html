@@ -5099,46 +5099,37 @@ body .wp-block-spectra-container:where([data-spectra-id='spectra-mv0m1rp8-hqpp2i
 </style>
 
 <style id="forminator-custom-contrast-fix">
-  /* Força fundo branco, texto preto e leitura clara nos inputs e seletores (dropdowns) */
+  /* Inputs, Textareas e Selects Padrão */
   .forminator-custom-form input,
   .forminator-custom-form textarea,
   .forminator-custom-form select,
   .forminator-input,
   .forminator-textarea,
   .forminator-field input,
-  .forminator-field textarea,
-  .forminator-select,
-  .forminator-select .forminator-select2,
-  .forminator-select2-container .select2-selection,
-  .forminator-select2-container .select2-selection__rendered {
+  .forminator-field textarea {
     background-color: #ffffff !important;
     color: #000000 !important;
     -webkit-text-fill-color: #000000 !important;
   }
 
-  /* Estado quando o campo ganha foco ou é selecionado */
+  /* Dropdowns e Select2 do Forminator */
+  .forminator-select,
+  .forminator-select2,
+  .forminator-custom-form .select2-container--default .select2-selection--single,
+  .forminator-custom-form .select2-selection__rendered,
+  .select2-container--default .select2-selection--single .select2-selection__rendered {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    -webkit-text-fill-color: #000000 !important;
+  }
+
+  /* Garantir texto preto ao focar ou abrir o menu */
   .forminator-custom-form input:focus,
   .forminator-custom-form textarea:focus,
-  .forminator-input:focus,
-  .forminator-textarea:focus,
-  .forminator-field input:focus,
-  .forminator-field textarea:focus,
   .forminator-select2-container--open .select2-selection {
     background-color: #ffffff !important;
     color: #000000 !important;
     -webkit-text-fill-color: #000000 !important;
-  }
-
-  /* Opções do menu suspenso (quando a lista abre) */
-  .select2-dropdown,
-  .select2-results__option {
-    background-color: #ffffff !important;
-    color: #000000 !important;
-  }
-
-  .select2-results__option--highlighted {
-    background-color: #f0f0f0 !important;
-    color: #000000 !important;
   }
 </style>
 
